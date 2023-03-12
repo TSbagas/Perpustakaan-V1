@@ -1,0 +1,54 @@
+body {
+    background-color:#6c7c89;
+
+}
+.tabelpeminjaman {
+    background-color: white;
+    border: 1px black solid;
+    margin: 5px;
+    right: 15;
+    position:absolute;
+    box-shadow: -4px 5px rgba(0, 0, 0, 0.388);
+}
+.tabelpeminjaman td {
+    padding: 20px;
+    text-align: center;
+}
+input {
+    padding: 5px;
+}
+select {
+    padding: 5px;
+}
+.judul {
+    background-color: rgb(113, 183, 193);
+    font-weight: bold;
+}
+.formstyle {
+    background-color: azure;
+    padding: 20px;
+    margin: 5px;
+    width: 30%;
+    border-radius: 20px;
+    float: left;
+    top: 10;
+    left: 75;
+    position: fixed;
+    box-shadow: -4px 5px rgba(0, 0, 0, 0.388);
+}
+h3 {
+    height: 15px;
+    text-align: center;
+}
+.back{
+    background-color: rgb(35, 95, 16);
+    border: none;
+    margin: 6px;
+    padding: 10px;  
+    border-radius: 5px;
+    text-decoration: none;
+    top: 10;
+    position: fixed;
+    color: white;
+    box-shadow: -2px 3px rgba(0, 0, 0, 0.388);
+}

@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background:linear-gradient(#43C6AC , #191654);
+}
+table {
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+button {
+    margin: 10px;
+    padding: 15px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    box-shadow: -2px 1px rgba(116, 116, 116, 0.234);
+}
+td {
+    padding: 0 30px 0 30px;
+}
+.hapus {
+    background-color: red;
+    color: white;
+}
+h1 {
+    height: 25px;
+}
+input {
+    width: 270px;
+    padding: 15px;
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px rgba(0, 0, 0, 0.368) solid;
+    outline: none;
+}
+.submit {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    background:linear-gradient(rgb(4, 85, 4),rgb(35, 111, 35));
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
+textarea {
+    margin: 5px;
+    border-radius: 10px;
+    border: 1px rgba(0, 0, 0, 0.368) solid;
+    outline: none;
+}
